@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**vishal2505/vishal2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am Vishal Mishra
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :office: I am working as a Big Data Engineer.
+- :zap: I’m skilled in Big Data Engineering technologies - Spark/Kafka/Hadoop etc.
+- :heavy_check_mark: I can code in Java, Python and Scala.
+- 🌱 I’m currently learning Data Science as I love Deep Learning.
+
+- 📫 How to find me: 
+  - :bulb: [Medium articles](https://vishalmishra2k20.medium.com/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/vishalmishra88/)
+
