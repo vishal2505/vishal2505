@@ -16,4 +16,4 @@
 
 ### Check out my latest articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vishalmishra2k20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vishalmishra2k20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vishalmishra2k20/0" alt="Recent Article 0">
