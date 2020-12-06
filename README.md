@@ -14,8 +14,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal2505)](https://github.com/vishal2505/github-readme-stats)
 
-### Check out my latest articles
+### Check out my latest 3 articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vishalmishra2k20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vishalmishra2k20/0" alt="Recent Article 0">
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vishalmishra2k20/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vishalmishra2k20/1" alt="Recent Article 1">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vishalmishra2k20/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vishalmishra2k20/2" alt="Recent Article 2">
